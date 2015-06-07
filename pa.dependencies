@@ -7,15 +7,15 @@
     },
     {
         "remote":      "github",
-        "repository":  "CyanogenMod/android_device_samsung_klte-common",
+        "repository":  "AOSPA-L/android_device_samsung_klte-common",
         "target_path": "device/samsung/klte-common",
-        "revision":    "cm-12.1"
+        "revision":    "lollipop-mr1"
     },
     {
         "remote":      "github",
-        "repository":  "CyanogenMod/android_device_samsung_qcom-common",
+        "repository":  "AOSPA-L/android_device_samsung_qcom-common",
         "target_path": "device/samsung/qcom-common",
-        "revision":    "cm-12.1"
+        "revision":    "lollipop-mr1"
     },
     {
         "remote":      "github",
